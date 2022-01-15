@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bitswarrior
+- 👋 Hi, I’m @cygnusx1hash
 - 👀 I’m interested in AI , Machine learning , Computer Networks and Electronics
 - 🌱 I’m currently learning Deep Learning
-- 📫 You can reach me at my instagram account @bitswarrior
 
 <!---
 bitswarrior/bitswarrior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
